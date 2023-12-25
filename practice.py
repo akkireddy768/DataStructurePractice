@@ -10,3 +10,5 @@ if __name__ == '__main__':
     print_new('Akkireddy')
     print_new('Lets practice')
     print_new('Coding for Python')
+    print_new('with Pycharm')
+    print_new('with Linkedin Learning')
